@@ -18,13 +18,13 @@ Always curious about how things work and eager to build tools that solve real pr
 ## 🧑‍💻 Other skills and knowledge
 ![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot)
 
-## Favourite IDE
+## 🛠️ Favourite IDE
 ![IDE](https://skillicons.dev/icons?i=vscode)
 
 ## 📈 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianluca-rainis&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Gianluca's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-rainis&layout=compact&theme=radical&hide_border=true" alt="Gianluca's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-rainis&layout=compact&theme=radical&hide_border=true" alt="Gianluca's Languages stats" />
 </p>
 
 ## 🤝 Contacts
