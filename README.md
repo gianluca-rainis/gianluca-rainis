@@ -13,24 +13,23 @@ Always curious about how things work and eager to build tools that solve real pr
 - 💬 Ask me about: Web develop (Front-end)
 
 ## 🧰 Development languages
-- Python
-- Java
-- C++
-- C
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
+![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,php,mysql,md)
+  
+## 🧑‍💻 Other skills and knowledge
+![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot)
+
+## Favourite IDE
+![IDE](https://skillicons.dev/icons?i=vscode)
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gianluca-rainis&show_icons=true&theme=radical" alt="Gianluca's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianluca-rainis&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Gianluca's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-rainis&layout=compact&theme=radical&hide_border=true" alt="Gianluca's GitHub stats" />
 </p>
 
 ## 🤝 Contacts
-[![GitHub](https://img.shields.io/badge/github-black?logo=github&style=flat-square)](https://github.com/gianluca-rainis)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:gianlucarainis@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/gianluca-rainis)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gmail.com)
 
 <!--
 **gianluca-rainis/gianluca-rainis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
