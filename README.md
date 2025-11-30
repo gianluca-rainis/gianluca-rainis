@@ -8,9 +8,9 @@ I'm a passionate developer with a love for clean code, open source, and continuo
 Always curious about how things work and eager to build tools that solve real problems.
 
 - 🔭 Currently working on: <a href="https://freeideas.duckdns.org">FreeIdeas</a>
-- 🌱 Learning more about: PHP, Assembly x86, Java, Web develop (back-end)
-- 🛠️ Favourite programming languages: Java, C, JavaScript
-- 💬 Ask me about: Web develop (Front-end)
+- 🌱 Learning more about: Next.js, React, Java, Web develop (back-end)
+- 🛠️ Favourite programming languages: JavaScript, C, Java
+- 💬 Ask me about: Web develop, Assembly
 
 ## 🧰 Development languages
 ![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,php,mysql,md)
