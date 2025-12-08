@@ -7,8 +7,8 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- 🔭 Currently working on: <a href="https://freeideas.duckdns.org">FreeIdeas</a>
-- 🌱 Learning more about: Next.js, React, Java, Web develop (back-end)
+- 🔭 Currently working on: [FreeIdeas](https://github.com/gianluca-rainis/FreeIdeas), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard)
+- 🌱 Learning more about: Next.js, React, KiCad and PCB design
 - 🛠️ Favourite programming languages: JavaScript, C, Java
 - 💬 Ask me about: Web develop, Assembly
 
@@ -17,6 +17,9 @@ Always curious about how things work and eager to build tools that solve real pr
   
 ## 🧑‍💻 Other skills and knowledge
 ![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot)
+
+
+![Skills](https://skillicons.dev/icons?i=nextjs,react)
 
 ## 🛠️ Favourite IDE
 ![IDE](https://skillicons.dev/icons?i=vscode)
