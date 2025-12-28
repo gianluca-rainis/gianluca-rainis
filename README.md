@@ -1,7 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=CBA95C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gianluca+Rainis" alt="Typing SVG" /></a>
-</h1>
-<p align="center">Developer • Student</p>
+![Header](./images/github-header-banner.png)
 
 ---
 
@@ -27,10 +24,9 @@ Always curious about how things work and eager to build tools that solve real pr
 ![IDE](https://skillicons.dev/icons?i=vscode)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianluca-rainis&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Gianluca's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-rainis&layout=compact&theme=radical&hide_border=true" alt="Gianluca's Languages stats" />
-</p>
+<a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=gianluca-rainis" width="600" /></a>
+<a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-trophies?login=gianluca-rainis" width="600" /></a>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
