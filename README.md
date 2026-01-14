@@ -15,7 +15,7 @@ Always curious about how things work and eager to build tools that solve real pr
 ![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,php,mysql,md)
   
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Other skills and knowledge
-![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot)
+![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot,unity)
 
 
 ![Skills](https://skillicons.dev/icons?i=nextjs,react)
