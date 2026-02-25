@@ -6,19 +6,19 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on: [FreeIdeas](https://github.com/gianluca-rainis/FreeIdeas), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about: Next.js, React, KiCad and PCB design
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on: [FreeIdeas](https://github.com/gianluca-rainis/FreeIdeas), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), [MagicExplorer](https://github.com/gianluca-rainis/magicExplorer).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about: Unity, C#.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Favourite programming languages: JavaScript, C, Java
-- 💬 Ask me about: Web develop, Assembly
+- 💬 Ask me about: Web development, Low level programming
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Development languages
-![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,php,mysql,md)
+![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js,php,mysql,md)
   
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Other skills and knowledge
 ![Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,arduino,bash,git,github,godot,unity)
 
 
-![Skills](https://skillicons.dev/icons?i=nextjs,react)
+![Skills](https://skillicons.dev/icons?i=nextjs,react,vercel)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Favourite IDE
 ![IDE](https://skillicons.dev/icons?i=vscode)
