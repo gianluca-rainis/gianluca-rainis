@@ -32,5 +32,5 @@ Always curious about how things work and eager to build tools that solve real pr
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Contacts
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/gianluca-rainis)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianluca-rainis-46b3173b6)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianluca-rainis)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gmail.com)
