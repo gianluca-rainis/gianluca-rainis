@@ -6,10 +6,10 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on: [FreeIdeas](https://github.com/gianluca-rainis/FreeIdeas), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), [MagicExplorer](https://github.com/gianluca-rainis/magicExplorer).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about: Unity, C#.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on: [RedBoard](https://github.com/gianluca-rainis/RedBoard), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about: Hardware Design with RP2040, Next.js, React.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Favourite programming languages: JavaScript, C, Java
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about: Web development, Low level programming
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about: Web development, Low level programming, Hardware Design
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Development languages
 ![Development Languages](https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js,php,mysql,md)
