@@ -27,6 +27,7 @@ Always curious about how things work and eager to build tools that solve real pr
 <a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=gianluca-rainis" width="600" /></a>
 <a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-trophies?login=gianluca-rainis" width="600" /></a>
 
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=gianluca-rainis&theme=darkhub&column=5)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
