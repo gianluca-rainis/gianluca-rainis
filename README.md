@@ -32,6 +32,7 @@ Always curious about how things work and eager to build tools that solve real pr
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## :handshake: Contacts
+[<img src="./images/github_profile_image.png" alt="Gianluca Rainis Profile Image" style="border-radius: 11.25px;" width="48" height="48" />](https://gianlucarainis.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/gianluca-rainis)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianluca-rainis)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gmail.com)
