@@ -6,7 +6,7 @@
                     <rect xmlns="http://www.w3.org/2000/svg" width="256" height="256" rx="60" />
                 </clipPath>
   			</defs>
-			<image href="https://raw.githubusercontent.com/gianluca-rainis/gianluca-rainis/refs/heads/main/images/github_profile_image.png" width="256" height="256" clip-path="url(#clip)" />
+			<image href="./github_profile_image.png" width="256" height="256" clip-path="url(#clip)" />
 		</svg>
 	</g>
 </svg>
