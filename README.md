@@ -35,4 +35,4 @@ Always curious about how things work and eager to build tools that solve real pr
 [<img src="./images/github_profile_image.png" width="48" height="48" />](https://gianlucarainis.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/gianluca-rainis)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianluca-rainis)
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gmail.com)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gianlucarainis.com)
