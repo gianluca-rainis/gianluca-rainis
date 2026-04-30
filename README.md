@@ -6,7 +6,7 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- :telescope: Currently working on: [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), [Redboard](https://github.com/gianluca-rainis/RedBoard).
+- :telescope: Currently working on: [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), my [Personal Website](https://github.com/gianluca-rainis/personalWebsite).
 - :seedling: Learning more about: Hardware Design with RP2040, Next.js, React.
 - :hammer_and_wrench: Favourite programming languages: JavaScript, C, Java
 - :sparkles: Ask me about: Web development, Low level programming, Hardware Design
