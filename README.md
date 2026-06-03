@@ -6,7 +6,7 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- :telescope: Currently working on: [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), my [Personal Website](https://github.com/gianluca-rainis/personalWebsite).
+- :telescope: Currently working on: [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard), my [Personal Website](https://github.com/gianluca-rainis/personalWebsite), [Beyond the Quarks](https://github.com/ProGamesStudio/BeyondTheQuarks).
 - :seedling: Learning more about: Hardware Design with RP2040, Next.js, React.
 - :hammer_and_wrench: Favourite programming languages: JavaScript, C, Java
 - :sparkles: Ask me about: Web development, Low level programming, Hardware Design
@@ -25,7 +25,6 @@ Always curious about how things work and eager to build tools that solve real pr
 
 ## :chart_with_upwards_trend: GitHub Stats
 <a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=gianluca-rainis" width="600" /></a>
-<a href="https://stats.hyo.dev/stats/gianluca-rainis"><img src="https://stats.hyo.dev/api/github-trophies?login=gianluca-rainis" width="600" /></a>
 
 ![GitHub trophies](https://github-profile-trophy-fork-two.vercel.app/?username=gianluca-rainis&theme=darkhub&column=5)
 
