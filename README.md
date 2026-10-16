@@ -6,7 +6,7 @@
 I'm a passionate developer with a love for clean code, open source, and continuous learning.  
 Always curious about how things work and eager to build tools that solve real problems.
 
-- :telescope: Currently working on: [UHBadge](https://github.com/gianluca-rainis/UHBadge), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard).
+- :telescope: Currently working on: [ASILUC](https://github.com/gianluca-rainis/ASILUC), [UHBadge](https://github.com/gianluca-rainis/UHBadge), [Z80DevBoard](https://github.com/gianluca-rainis/Z80DevBoard).
 - :seedling: Learning more about: Verilog, Hardware Design with RP2350.
 - :hammer_and_wrench: Favourite programming languages: JavaScript, C
 - :sparkles: Ask me about: Web development, Low level programming, Hardware Design
