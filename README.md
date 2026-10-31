@@ -1,4 +1,4 @@
-![Header](./images/github-header-banner.png)
+![Header](/images/github-header-banner.png)
 
 ---
 
@@ -30,7 +30,8 @@ Always curious about how things work and eager to build tools that solve real pr
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## :handshake: Contacts
-[<img src="./images/github_profile_image.png" width="48" height="48" />](https://gianlucarainis.com)
+[<img src="/images/github_profile_image.png" width="48" height="48" />](https://gianlucarainis.com)
+[<img src="/images/GRLabs-image.png" width="48" height="48" />](https://projects.gianlucarainis.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/gianluca-rainis)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianluca-rainis)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:gianlucarainis@gianlucarainis.com)
